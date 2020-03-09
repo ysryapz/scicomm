@@ -1,0 +1,12 @@
+Currently, the gist of our simulation is:
+1) Create a bunch of circles on the sphere
+2) Make the circles move
+3) As the circles are moving, slowly increase the radius of the circle
+4) If overlap occurs, push circles such that that the overlap will be gone
+5) When circles can't increase further without overlapping, our answer is there :)
+
+For this week's contribution, I would like to talk about 
+1) growth
+2) end condition
+
+GROWTH:
